@@ -6,15 +6,14 @@ The Vehicle Registration and Monitoring System for School Security is a computer
 In Scope:
 
 
-Vehicle and owner registration
+<Vehicle and owner registration
 
-Entry and exit logging
-
-
-Search and report generation
+<Entry and exit logging
 
 
-Secure database for record storage
+<Search and report generation
+
+<Secure database for record storage
 
 
 
